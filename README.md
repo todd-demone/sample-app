@@ -1,9 +1,12 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails Tutorial
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+## Sample Application (Twitter clone) [DRAFT]
+
+View the application at this [*site*](https://frozen-badlands-84407.herokuapp.com/).
+
+This is the third application in the 
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). 
 
 ## License
 
